@@ -1,6 +1,7 @@
 Instituto Tecnologico de Tepic
 Arturo misael escalante licona
 Infraestructura de desarrollo web
+Israel Arjona Vizcaino
 adgonzalezen@ittepic.edu.mx
 anpasanchezji@ittepic.edu.mx
 armiescalanteli@ittepic.edu.mx
